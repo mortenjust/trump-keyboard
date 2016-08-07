@@ -1,6 +1,8 @@
 # Trump keyboard
 
-<a href="https://medium.com/p/911b782a4b36/">We should write emails like Trump</a>
+* <a href="https://medium.com/p/911b782a4b36/">We should write emails like Trump</a>
+* <a href="http://bit.ly/trumpboard">Trump Keyboard on AppStore</a>
+
 
 <img src="https://github.com/mortenjust/trump-keyboard/blob/master/UX/demos/tru06.gif?raw=true" width=300>
 
