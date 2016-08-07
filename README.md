@@ -10,7 +10,7 @@
 
 <img src="https://github.com/mortenjust/trump-keyboard/blob/master/UX/demos/tru10frienfd.gif?raw=true" width=300>
 
-## Misc
+## Thanks
 Built on
 * <a href="https://github.com/archagon/tasty-imitation-keyboard">Tasty Imitation Keyboard</a>
 * <a href="https://github.com/brackendev/Readability-Swift">Readability-Swift</a>
